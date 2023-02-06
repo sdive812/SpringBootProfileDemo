@@ -1,0 +1,48 @@
+{
+	"info": {
+		"_postman_id": "0624891d-9b57-430d-bf96-35d38472fdc7",
+		"name": "SpringBootProflerProject",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18432079"
+	},
+	"item": [
+		{
+			"name": "getProfileInfo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8081/api/profiles",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"api",
+						"profiles"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getProfileInfoDev",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8081/api/profiles",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"api",
+						"profiles"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
