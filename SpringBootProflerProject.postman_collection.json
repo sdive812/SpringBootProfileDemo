@@ -31,7 +31,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:8091/api/profiles",
+					"raw": "localhost:8081/api/profiles",
 					"host": [
 						"localhost"
 					],
